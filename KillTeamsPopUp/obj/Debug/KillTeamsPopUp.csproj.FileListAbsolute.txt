@@ -1,0 +1,9 @@
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\bin\Debug\KillTeamsPopUp.exe.config
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\bin\Debug\KillTeamsPopUp.exe
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\bin\Debug\KillTeamsPopUp.pdb
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\obj\Debug\KillTeamsPopUp.csprojAssemblyReference.cache
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\obj\Debug\KillTeamsPopUp.Properties.Resources.resources
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\obj\Debug\KillTeamsPopUp.csproj.GenerateResource.cache
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\obj\Debug\KillTeamsPopUp.csproj.CoreCompileInputs.cache
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\obj\Debug\KillTeamsPopUp.exe
+D:\Dev\C#\KillTeamsPopUp\KillTeamsPopUp\obj\Debug\KillTeamsPopUp.pdb
